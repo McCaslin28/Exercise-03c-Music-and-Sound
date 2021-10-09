@@ -11,7 +11,7 @@ Adding music, sound, typeface changes, and several "juicy" features to a simple 
 Select and drag tiles using the mouse.
 
 
-## Implementation
+## Implementation: sound effects, various animations on pieces, 2 background visual changes, background music, piece color changes, Coin animation, Theme/title change. 
 
 Built using Godot 3.3.3
 
